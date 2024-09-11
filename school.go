@@ -10,3 +10,7 @@ func GetPrivateSchoolName() string {
 	private := privateschool.PrivateSchoolName()
 	return private
 }
+
+func GetColor() string {
+	return "Blue"
+}
